@@ -1,0 +1,13 @@
+/* button {
+    height: ;
+    width: 100%;
+} */
+
+body{
+    background-color: rgb(206, 255, 208)
+    /* background-image: url('images/MichalProfile.jpg'); */
+}
+
+*{
+    padding: 5px;
+}
